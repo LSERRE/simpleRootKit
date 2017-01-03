@@ -1,0 +1,1 @@
+sudo npm install gulp-sass gulp-if browserify browsersync gulp-sourcemaps babelify buffer vinyl-source-stream vinyl-buffer gulp-minify-css gulp-uglify gulp-rename gulp-replace browser-sync gulp-sass gulp-autoprefixer
